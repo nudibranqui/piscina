@@ -1,0 +1,14 @@
+
+#! /bin/sh
+
+find ./* \( -name "*~" -o -name "#*#" \) -print  -exec rm -f {} \;
+
+
+
+
+
+
+
+
+
+
